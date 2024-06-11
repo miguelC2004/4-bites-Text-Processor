@@ -64,10 +64,4 @@ Esta es la clase principal que se ocupa de coordinar la lectura de texto de entr
 
 Al ejecutar el programa, se solicita que ingrese el nombre del archivo de entrada y de salida. Para usar la consola como entrada o salida, ingresa `-` cuando se pida el nombre del archivo.
 
-## Contribución
-
-Para contribuir a este proyecto, sigue estos pasos:
-
-1. Lee CodeComplete del autor Steve McConnell
-2. Haz un fork del repositorio
 ---
