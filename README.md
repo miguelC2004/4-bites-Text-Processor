@@ -15,8 +15,7 @@ Este repo es un procesador de texto modular y extensible que utiliza el patrón 
 
 La arquitectura del proyecto sigue una estructura organizada por carpetas, donde cada componente se coloca en su respectiva carpeta:
 
-´´´
-4-bites-Text-Processor/
+```4-bites-Text-Processor/
 |-- src/
 | |-- InputHandlers/
 | | |-- ConsoleInputHandler.cpp
@@ -42,7 +41,7 @@ La arquitectura del proyecto sigue una estructura organizada por carpetas, donde
 | | |-- OutputHandlerFactory.h
 | |-- TextProcessor.h
 |-- main.cpp
-´´´
+```
 
 ### Descripción de los Componentes
 
