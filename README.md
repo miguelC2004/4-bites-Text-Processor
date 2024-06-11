@@ -16,7 +16,7 @@ Este repo es un procesador de texto modular y extensible que utiliza el patrón 
 La arquitectura del proyecto sigue una estructura organizada por carpetas, donde cada componente se coloca en su respectiva carpeta:
 
 ´´´
-edgeclear-core-api/
+4-bites-Text-Processor/
 |-- src/
 | |-- InputHandlers/
 | | |-- ConsoleInputHandler.cpp
